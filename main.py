@@ -3,7 +3,7 @@ import fit_ex as fit
 import data_check as dc
 
 vasp_data = 'NiMnIn_mart_all'
-cluster_file = 'clusters_M_all2'
+cluster_file = 'clusters_M_all'
 clusters = []
 enrgies = []
 counts = []

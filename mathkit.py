@@ -11,7 +11,6 @@ def findGrpLst(Lst):
     Loc = 0
     NLst = len(Lst)
     for Ind in range(1, NLst):
-        # B #print Lst[Ind], Lst[Ind - 1];
         if Lst[Ind] == Lst[Ind - 1]:
             GrpLst[Loc].append(Ind)
         else:

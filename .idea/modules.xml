@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Model_Parameterization.iml" filepath="$PROJECT_DIR$/.idea/Model_Parameterization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Model_Param_NF.iml" filepath="$PROJECT_DIR$/.idea/Model_Param_NF.iml" />
     </modules>
   </component>
 </project>

@@ -31,7 +31,7 @@ vols = [] # List of volume for each data point
 normalize = True # Normalize fit
 intercept = True # Fit with intercept
 energy_above = False # Fit to energy above hull
-fold = 89# fold pick for cross validation in LASSOCV and RIDGECV ( 91 for mart all and 40 for aust all )
+fold = 100# fold pick for cross validation in LASSOCV and RIDGECV ( 91 for mart all and 40 for aust all )
 use_saved = True
 if use_saved == True:
     clusters = []
